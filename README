@@ -1,1 +1,31 @@
 This is a git repo
+
+https://fsjp-soa.netlify.app
+
+-- Pegna Heudi 30 Jul 
+- Remplacer La faculté par acceuil 
+- Espace pour le personnel administratif
+- heberger les campus
+
+background: #ffbc3b
+
+TAF de DEMAIN (01 Aout 2020)
+1- actualiser le git et déployer. Transmettre à Pegna
+2- Tester le cms en ligne avec le site statique et voir
+3- tester l'installation normale du theme avec hugo pour voir la réaction apres compilation
+4- Déplyer django
+5- 1H odoo
+puis rentrer. 
+
+git config --global user.name "user_name"
+git config --global user.email "email_id"
+
+
+
+git init
+ git add -A (.)
+    git status 
+    git commit -m "message"
+    git remote add origin https://github.com/mta-uy2/fsjpdesoa.git
+    git push origin master
+    git pull 
