@@ -11,31 +11,6 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 
 
-/** MES CLASSES DEFINIES */
-
-@media (max-width: 450px) {
-    .bout-class {
-        margin-bottom: 10px;
-    }
-}
-
-.bloc-class {
-    cursor: pointer;
-}
-
-.bloc-class:hover {
-    background: #f8d796;
-    transition: .3s ease;
-}
-
-@media (max-width: 640px) {
-    .bloc-class {
-        border: 1px solid rgba(0, 0, 0, .125);
-        border-radius: 12px;
-    }
-}
-
-
 /*  typography */
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
@@ -397,8 +372,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #595980;
-    /*#1a1a37;*/
+    background: #1a1a37;
     opacity: .8;
 }
 
